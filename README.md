@@ -10,27 +10,10 @@ View and manage your bookings
 Admin panel to manage listings and users
 
 
-Booking_webapp/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── utils/
-│   ├── .env
-│   ├── server.js
-│   └── package.json
-└── client/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   ├── pages/
-    │   ├── App.js
-    │   ├── index.js
-    │   └── ...
-    ├── .env
-    └── package.json
+Technologies Used
+Frontend: React, React Router, Axios, Bootstrap
+Backend: Node.js, Express, MongoDB, Mongoose, JWT
+Deployment: Netlify (client), Render (server)
 
 
 
